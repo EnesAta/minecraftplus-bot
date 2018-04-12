@@ -1,0 +1,15 @@
+{
+  "name": "minecraftplus-discordbot",
+  "version": "1.0.0",
+  "description": "minecraft.rf.gd Sitesinin Resmi Discord Botu - Created by Bobzillaa#9427",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bobzillaa#9427",
+  "license": "ISC",
+  "dependencies": {
+    "bot.js": "0.0.1",
+    "discord.js": "^11.3.2"
+  }
+}

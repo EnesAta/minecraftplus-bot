@@ -63,4 +63,4 @@ bot.on('message', msg => {
   if (msg.content.toLowerCase().includes('güle güle')) msg.reply('sana da güle güle');
 });
 
-bot.login('NDMxMTE3MzAzODIwNTgyOTEz.Da-huw.zJrdxjtFc-L1yf6thbaEdTBgxKM');
+bot.login('process.env.BOT_TOKEN');
